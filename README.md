@@ -7,21 +7,21 @@ I'm a passionate .NET developer based in Illinois, with a keen interest in Golan
 - **Languages:** C#, JavaScript, TypeScript, Java, Golang, Python
 - **Frameworks:** Blazor, React, Next.js, Tailwind CSS, Bootstrap
 - **Platforms:** GitHub, Docker, Vercel, Amazon AWS, Microsoft Azure
-- **Patterns & Practices:** Mediator Design Pattern, CI/CD with GitHub Actions, Agile Methodology
-- **Other Tools:** ReSharper, Test Café, RabbitMQ, Nginx, Kubernetes, Docker Compose, Portainer
+- **Patterns & Practices:** Mediator Design Pattern, CI/CD with GitHub Actions, Agile Methodology, Clean Architecture
+- **Other Tools:** ReSharper, Test Café, RabbitMQ, Nginx, Docker Compose, Portainer
 
 ## 💼 Professional Experience
 
 ### Professional Benefit Administrators (2021 - Present)
-**Software Engineer Level 2**
-- Leading debugging efforts and refactoring .NET codebases.
-- Designing and implementing database schemas and UIs for flagship applications.
+**Software Engineer II**
+- Working with my team to refactor, debug, and develop new .NET applications.
+- Designing/implementing database schemas and UIs for flagship applications.
 - Architecting CI/CD pipelines using GitHub Actions.
-- Dockerizing applications and training the engineering team.
-- Automating data extracts and normalizing database schemas.
-- Ensuring compliance with government healthcare requirements.
+- Leading the team in managing our Dockerized applications.
+- Automating data extraction for various vendors.
+- Leading efforts on ensuring compliance with government healthcare transparency requirements.
 
-### BMC CompuWear (2020 - 2021)
+### BMC Compuware (2020 - 2021)
 **Associate Software Engineer**
 - Updated main application to include OpenAPI Swagger documentation.
 - Supported both Java 8 and Java 11 deployment options.
