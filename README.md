@@ -1,5 +1,3 @@
-![Brett Carney](https://www.brettcarney.com/_next/image?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F32111055%3Fv%3D4&w=384&q=75)
-
 # Hi there, I'm Brett Carney! 👋
 
 I'm a passionate .NET developer based in Illinois, with a keen interest in Golang and a variety of frontend frameworks, particularly Next.js. I love collaborating on projects and am always open to learning new technologies and improving my skills.
