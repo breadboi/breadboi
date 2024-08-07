@@ -1,4 +1,4 @@
-![Brett Carney](https://www.brettcarney.com/images/profile.jpg)
+![Brett Carney](https://www.brettcarney.com/_next/image?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F32111055%3Fv%3D4&w=384&q=75)
 
 # Hi there, I'm Brett Carney! 👋
 
